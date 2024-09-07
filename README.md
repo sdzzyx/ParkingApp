@@ -1,5 +1,8 @@
 # Parking Application
 Not yet finished(api integration & implementation, database and fixed the favorite screen events, etc.)
-![ParkingSplashScreen](https://github.com/user-attachments/assets/4e6071c2-885a-46f2-834f-f3d440c9c142)
-![LoginScreen](https://github.com/user-attachments/assets/21146948-57aa-4c8f-a190-cd35b3fa0174)
-![HomeScreen](https://github.com/user-attachments/assets/0c973b5b-b527-4d3a-be9b-8ce530c43bde)
+![image](https://github.com/user-attachments/assets/d89efd36-16ff-4910-8557-dd8d0fa446d9)
+![image](https://github.com/user-attachments/assets/f41c2971-bf70-4588-8c7a-c2532a9a6af7)
+![image](https://github.com/user-attachments/assets/4381f667-b355-4ea6-9062-6de856000691)
+
+
+
